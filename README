@@ -1,0 +1,1 @@
+We provide a comprehensive exploratory data analysis of Ewing sarcoma characterestics and then build machine learning models to predict survival as a continous variable and as survival classes (alive or dead) at three different time points (1, 3, 5 years). 
